@@ -1,0 +1,5 @@
+{
+	"ConfigLink": {
+		"Connection1": "Server = localhost;Database = xtlab;UID = sa;PWD = 88888888"
+	}
+}
